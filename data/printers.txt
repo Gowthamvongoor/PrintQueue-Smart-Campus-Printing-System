@@ -1,0 +1,2 @@
+PRINTER01|HP LaserJet Pro 400 (Ground Floor Lab)|BUSY
+PRINTER02|Canon ImageRunner Advance (Library Center)|AVAILABLE

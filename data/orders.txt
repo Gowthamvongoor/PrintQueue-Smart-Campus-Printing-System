@@ -1,0 +1,3 @@
+PQ1001|23BCE1001|Data_Structures_Lab.pdf|10|1|Black & White|A4|Single-sided|2026-10-30 09:27:14|IN_PROGRESS|PRINTER01
+PQ1002|23BCE1001|AI_Research_Paper.pdf|25|2|Color|A4|Double-sided|2026-10-30 09:27:14|PENDING|N/A
+PQ1003|23BCE1001|Campus_Map.pdf|1|3|Color|A3|Single-sided|2026-10-30 09:27:14|PENDING|N/A
